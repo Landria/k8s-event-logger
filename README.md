@@ -32,14 +32,6 @@ Example of events:
 
 ### Installation
 
-Use the [Helm](https://helm.sh/) chart:
-
-```
-helm install chart/
-```
-
-Or user the docker image [maxrocketinternet/k8s-event-logger](https://hub.docker.com/r/maxrocketinternet/k8s-event-logger)
-
 ### Testing
 
 Run it:
